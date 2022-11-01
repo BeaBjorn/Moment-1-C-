@@ -1,0 +1,15 @@
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/bin/Debug/net6.0/mom1-test.net
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/bin/Debug/net6.0/mom1-test.net.deps.json
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/bin/Debug/net6.0/mom1-test.net.runtimeconfig.json
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/bin/Debug/net6.0/mom1-test.net.dll
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/bin/Debug/net6.0/mom1-test.net.pdb
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.csproj.AssemblyReference.cache
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.AssemblyInfoInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.AssemblyInfo.cs
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.csproj.CoreCompileInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.dll
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/refint/mom1-test.net.dll
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.pdb
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/mom1-test.net.genruntimeconfig.cache
+/Users/beatricebjorn/Desktop/year_two/c#/mom1-test.net/obj/Debug/net6.0/ref/mom1-test.net.dll
